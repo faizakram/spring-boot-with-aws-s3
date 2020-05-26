@@ -7,4 +7,12 @@ There are different approaches for storing files:
    - in the database as a binary file
    - using some cloud storages
 
+In my developer practice I always prefer the last approach as it seems to be the best one for me (but of course you might have your own opinion). As a cloud service I use ** S3 Bucket Service ** of ** Amazon ** Company. 
+And here is why:
+
+   - it’s easy to programmaticaly upload any file using their API
+   - Amazon supports a lot of programming languages
+   - there is a web interface where you can see all of your uploaded files
+   - you can manually upload/delete any file using web interface
+
 https://www.getpostman.com/collections/6cf462f5f3fdf10223df
