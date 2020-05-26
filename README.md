@@ -332,4 +332,4 @@ public class FileUploadServiceImpl implements FileUploadService {
 }
 ```
 
->Just import the below link in postman then you get all the exposed api example https://www.getpostman.com/collections/6cf462f5f3fdf10223df
+>Just import the below link in postman then you will get all the exposed api example https://www.getpostman.com/collections/6cf462f5f3fdf10223df
