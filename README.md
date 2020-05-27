@@ -334,5 +334,4 @@ public class FileUploadServiceImpl implements FileUploadService {
 
 >Just import the below link in postman then you will get all the exposed api example https://www.getpostman.com/collections/6cf462f5f3fdf10223df
 
-> Watch the complete video on youtube 
-[<img src="https://media.giphy.com/media/13Nc3xlO1kGg3S/giphy.gif">](https://youtu.be/OzXUgGNT2WM)
+> [<img src="https://media.giphy.com/media/13Nc3xlO1kGg3S/giphy.gif">](https://youtu.be/OzXUgGNT2WM)
